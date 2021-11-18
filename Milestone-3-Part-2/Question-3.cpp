@@ -1,3 +1,5 @@
+//Q3. Create an array and write a menu driven program to traverse that array, search an element in that array, modify an element in the array. (Use while loop amd switch case to make it menu driven)
+
 #include <iostream>
 
 using namespace std;

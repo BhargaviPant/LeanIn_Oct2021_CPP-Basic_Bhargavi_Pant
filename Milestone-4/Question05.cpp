@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     int size,i;
-    int arr[50];//variable declaration to size of array
+    int arr[50];
 	int large=0, secondLarge=0;
 
 	cout<<"Enter the number of element in array: ";
